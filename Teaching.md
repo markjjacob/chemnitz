@@ -41,31 +41,31 @@ What's the biggest [[ problem ]] you have right now at university?
 
 {{2}}
 > **Principle 2:**
-> Give opportunities.
+> Give planned opportunities.
 > *Please lead the discussion.*
 >
-> **Next level:** Accept offers.
-> *Why don't I ...?*
+> **Next level:** Give opportunities spontaneously.
+> *Please take notes.*
 
 {{3}}
 > **Principle 3:**
-> Give feedback.
-> *Make sure you finish strongly.*
+> Acquire data.
 >
-> **Next level:** Give them the chance to try again.
-> *This time thank the participants and officially give the word back to me.*
+> **Next level:** Analyze data.
 
 {{4}}
 > **Principle 4:**
 > Consider the students to be experts.
 >
-> **Next level:** Scrutinise the students' statements
+> **Next level:** Incorporate students suggestions.
 
 {{5}}
 > **Principle 5:**
-> Acquire data.
+> Give feedback.
+> *Make sure you finish strongly.*
 >
-> **Next level:** Analyze data.
+> **Next level:** Give them the chance to try again.
+> *This time thank the participants and officially give the word back to me.*
 
 {{6}}
 > **Principle 6:**
