@@ -24,7 +24,7 @@ translation: Français translations/French.md
 # Main
 
 ## Teaching
-??[Teaching](https://liascript.github.io/course/?https://https://github.com/markjjacob/chemnitz/blob/main/Research.md)
+??[Teaching](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Research.md)
 
 ## Translation
 ??[Translation](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Translation.md)
