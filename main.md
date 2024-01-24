@@ -24,10 +24,10 @@ translation: Français translations/French.md
 # Main
 
 ## Teaching
-??[Teaching](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/chemnitz/blob/main/Teaching.md)
+??[Teaching](https://liascript.github.io/course/?https://https://github.com/markjjacob/chemnitz/blob/main/Research.md)
 
 ## Translation
-??[Translation](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/chemnitz/blob/main/Translation.md)
+??[Translation](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Translation.md)
 
 ## Research
-??[Research](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/chemnitz/blob/main/Research.md)
+??[Research](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Research.md)
