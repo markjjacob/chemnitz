@@ -87,7 +87,7 @@ What's the biggest [[ problem ]] you have right now at university?
 
 > Do these principles feature in your teaching?
 
-[[Yes][No]]
+[[Always][Often][Sometimes][Rarely][Never]]
 [         ] Don't ask students questions you know the answer to.
 [         ] If students can play your role, give them the opportunity.
 [         ] Give students constructive and actionable feedback.
