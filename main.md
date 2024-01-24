@@ -19,15 +19,15 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 translation: Français translations/French.md
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/main.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/chemnitz/blob/main/main.md)
 
 # Main
 
 ## Teaching
-??[Teaching](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Research.md)
+??[Teaching](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/chemnitz/blob/main/Research.md)
 
 ## Translation
-??[Translation](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Translation.md)
+??[Translation](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/chemnitz/blob/main/Translation.md)
 
 ## Research
-??[Research](https://liascript.github.io/course/?https://github.com/markjjacob/chemnitz/blob/main/Research.md)
+??[Research](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/chemnitz/blob/main/Research.md)
