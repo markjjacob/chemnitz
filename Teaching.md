@@ -19,7 +19,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 translation: Français translations/French.md
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/chemnitz/blob/main/Teaching.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/chemnitz/blob/main/Teaching.md)
 
 # Teaching
 
