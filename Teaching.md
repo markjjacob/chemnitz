@@ -10,6 +10,8 @@ comment:  This simple description of your course.
 
 icon: https://www.tu-chemnitz.de/phil/english/iaa/priaa/priaaimages/Flyer%20TU%20Chemnitz_2.jpg
 
+import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
+
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
@@ -21,9 +23,26 @@ translation: Français translations/French.md
 
 # Teaching
 
-1. [Principles](#principles)
-2. [Past & Present](#past-and-present)
+1. [Preliminaries](#preliminaries)
+2. [Principles](#principles)
 3. [Potential](#potential)
+
+## Preliminaries
+
+??[interview](https://www.etymonline.com/search?q=interview)
+
+### Basingstoke
+
+{{0-1}}
+![btfc](http://1.bp.blogspot.com/_6WcUvuHLe6g/TMlJxTSD6fI/AAAAAAAABMA/xDLwK1B7-3M/s1600/IMG_6073_6_1_1.jpg "Basingstoke Town FC")
+![fairies](https://supernaturaldesharnia.weebly.com/uploads/2/7/9/5/27950973/1428442790.png "A Midsummer Night's Dream")
+![Star Wars](https://lumiere-a.akamaihd.net/v1/images/databank_captainantilles_01_169_75e05265.jpeg?region=0%2C0%2C1560%2C878 "Peter Geddis")
+![BCOT](https://www.newburytoday.co.uk/_media/img/750x0/HV0661HFUHPTZL3QHME1.jpg "Basingstoke College of Technology")
+![Chippy](https://lh3.googleusercontent.com/tTEG1i_fd2gu_ZFVnChGhPk33j3SH3cNJeSmXgLt1FcRPYHrGkDKPtUJIPQJZEbg4MW7ceYkv5kbScVc6o5K-TvPPwLbA36MPCVonxFfW-X1OspY5s6FUFeSA4r5X_9--A=w1280 "iA fish and chips establishment")
+
+#### Basingstoke in Shakespeare
+
+??[shakespeare](https://www.folger.edu/explore/shakespeares-works/henry-iv-part-2/read/2/1/?q=Basingstoke#line-2.1.177)
 
 ## Principles
 
@@ -41,62 +60,78 @@ What's the biggest [[ problem ]] you have right now at university?
 
 {{2}}
 > **Principle 2:**
-> Give planned opportunities.
+> If students can do your task, give them the opportunity.
 > *Please lead the discussion.*
 >
-> **Next level:** Give opportunities spontaneously.
-> *Please take notes.*
+> **Next level:** Let students contribute to shaping the session.
+> *What are our goals today and how are we going to reach them?*
 
 {{3}}
 > **Principle 3:**
-> Acquire data.
->
-> **Next level:** Analyze data.
-
-{{4}}
-> **Principle 4:**
-> Consider the students to be experts.
->
-> **Next level:** Incorporate students suggestions.
-
-{{5}}
-> **Principle 5:**
-> Give feedback.
+> Give constructive and actionable feedback.
 > *Make sure you finish strongly.*
 >
 > **Next level:** Give them the chance to try again.
 > *This time thank the participants and officially give the word back to me.*
 
-{{6}}
-> **Principle 6:**
-> Don't perform.
+### Principles Survey
+
+> How important do you rate the principles?
+
+- a. Don't ask students questions you know the answer to.
+- b. If students can do your task, give them the opportunity.
+- c. Give students constructive and actionable feedback.
+
+[[Low][Medium][High]]
+[         ] a
+[         ] b
+[         ] c
+
+### Principles Survey 2
+
+> Do these principles feature in your teaching?
+
+- a. Don't ask students questions you know the answer to.
+- b. If students can do your task, give them the opportunity.
+- c. Give students constructive and actionable feedback.
+
+[[Yes][No]]
+[         ] a
+[         ] b
+[         ] c
+
+
+### Bonus Principles
+
+{{1}}
+> **Bonus Principle 1:**
+> Take records.
+> *How many of you agree with the statement?*
 >
-> **Next level:** Get out of the way.
+> **Next level:** Work scientifically.
+> *Observation, Hypothesis, Experimentation, Data analysis, Conclusion*
 
-## Shared Principles
+{{2}}
+> **Bonus Principle 2:**
+> Experience don't perform.
+>
+> **Next level:** Reflect don't judge.
 
-> Which principles do you share?
+## Potential
 
-1. Don't ask questions you know the answer to.
-2. Give opportunities.
-3. Give feedback.
-4. Consider the students to be experts.
-5. Acquire data.
-6. Don't perform.
-
-[[Agree][Vague][Disagree]]
-[         ] 1
-[         ] 2
-[         ] 3
-[         ] 4
-[         ] 5
-[         ] 6
-
-## Meta-principles
-
-> Teaching/learning at univerity is an interaction. It is:
-
-- intellectual
-- purposive
-- authentic
-
+```mermaid @mermaid
+flowchart TD
+    A[Teaching at TUC]
+    A---C(Courses)
+    C---|are aligned<br/>constructively|D(1.Outcomes<br/>2.Activity<br/>3.Assessment)
+    C---|are testbeds<br/>for innovation<br/>Digital/Analogue|E(1.Tools<br/>2.Methods<br/>3.Interactions)
+    C---|produce OER<br/>materials|J(1.Podcasts<br/>2.Videos<br/>3.Presentatios)
+    A---K(Interaction) 
+    K---|should be:|L(1.Authentic<br/>2.Transformative<br/>3.Intellectual)
+    K---|is deictic in:|M(1.Time, Now/Then<br/>2.Place, Here/There<br/>3.Person, We/They)
+    K---|can be:|N(1.Formal<br/>2.Regular<br/>3.Incidental)
+    A---I(People)
+    I---|are students:|F(1.Participants<br/>2.Assistants<br/>3.Alumni)
+    I---|are colleaugues:|G(1.Departmental<br/>2.TUC<br/>3.External)
+    I---|are others:|H(1.Experts<br/>2.Connections<br/>3.Acquantances)
+```
