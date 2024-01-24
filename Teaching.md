@@ -60,7 +60,7 @@ What's the biggest [[ problem ]] you have right now at university?
 
 {{2}}
 > **Principle 2:**
-> If students can do your task, give them the opportunity.
+> If students can play your role, give them the opportunity.
 > *Please lead the discussion.*
 >
 > **Next level:** Let students contribute to shaping the session.
@@ -78,28 +78,19 @@ What's the biggest [[ problem ]] you have right now at university?
 
 > How important do you rate the principles?
 
-- a. Don't ask students questions you know the answer to.
-- b. If students can do your task, give them the opportunity.
-- c. Give students constructive and actionable feedback.
-
 [[Low][Medium][High]]
-[         ] a
-[         ] b
-[         ] c
+[         ] Don't ask students questions you know the answer to.
+[         ] If students can play your role, give them the opportunity.
+[         ] Give students constructive and actionable feedback.
 
 ### Principles Survey 2
 
 > Do these principles feature in your teaching?
 
-- a. Don't ask students questions you know the answer to.
-- b. If students can do your task, give them the opportunity.
-- c. Give students constructive and actionable feedback.
-
 [[Yes][No]]
-[         ] a
-[         ] b
-[         ] c
-
+[         ] Don't ask students questions you know the answer to.
+[         ] If students can play your role, give them the opportunity.
+[         ] Give students constructive and actionable feedback.
 
 ### Bonus Principles
 
