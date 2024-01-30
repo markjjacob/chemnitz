@@ -23,3 +23,24 @@ translation: Français translations/French.md
 
 # Research
 
+- Tools, Teaching, Technical English, Translating
+
+## Questions
+
+> Teachers
+
+1. To what extent can language instructors cope with the "Fach" in Fachsprache? (Transfer Digital Fellowship)
+2. What are the requirements of a language instructor for teaching English for Specific Purposes? (Transfer Digital Fellowship)
+
+> Teaching
+
+3. How should we best implement digital tools? (WordValue, CrossLabs)
+4. How should university specialist language courses develop? (Tandem Digital Fellowshop)
+
+> Analysis
+
+5. How can we use neural networks to analyze concept maps (Volker Göhler) and the content of negotiations (Gari Walkowitz)
+
+> Translation and localization
+
+6. To what extent do we need to consider culture when translating and making available remote lab infrastructures to students outside Germany (in Europe, in Africa)? (CrossLabs)
