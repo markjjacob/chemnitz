@@ -2,6 +2,8 @@
 
 ## Teaching
 
+![grandpere](https://x-resistance.polytechnique.org/exterieur/fnfl2.gif)
+
 ### Meta-principles
 
 > Teaching/learning at university is an interaction. It is:
