@@ -17,33 +17,6 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 translation: Français translations/French.md
-script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/base.js
-script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/consys.js
-script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/grabber.js
-script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/grabber-lia-bridge.js
-script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/lul-lia-bridge.js
-script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/lul.js
-link: https://cdn.jsdelivr.net/gh/nethiri/YTScriptGrabber@main/LiaScriptVersion/lul.css
-link: https://cdn.jsdelivr.net/gh/nethiri/YTScriptGrabber@main/LiaScriptVersion/consys.css
-
-@gr: @grabber({})
-
-@grabber
-<script id="script_@uid" input="hidden">
-  window['grabberArg'] = @0;
-</script>
-@startgrabber(@uid)
-@end
-
-@startgrabber
-<script id="script_@uid" input="hidden">
-  window['grabberUid'] = 'id_@0';
-  setTimeout(function() {
-    startGrabber();
-  }, 100);
-</script>
-<div id='id_@0'></div>
-@end
 
 -->
 
@@ -170,26 +143,13 @@ https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNo
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/Negotiation/main/git/TLON_Lecture_01.md#1)
 
-### Wikis (Cross-course use)
+### Wikis
 
-### Image describer
+https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/41133408259/CourseNode/1705289529591047006/wiki/Index
 
-#### Web Version
+### Concept Maps
 
-??[](https://nethiri.github.io/EnglishImageDescriber/)
-
-#### Feedback Version
-
-??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md#1)
-
-### Youtube ScriptGrabber
-
-#### Web version
-??[](https://nethiri.github.io/YTScriptGrabber/)
-
-#### LiaScript version
-@gr
-
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/EF_BOB_23/main/BOB_concept_maps.md#1)
 
 ## General Ideas for teaching at TUC
 
