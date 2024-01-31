@@ -139,17 +139,17 @@ https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNo
 
 ??[live lia doc](https://liascript.github.io/LiveEditor/?/edit/TNcJ6RnYbjgs286JCYVpAmDA/webrtc)
 
-### Course in LiaScript
+### Instructor creates LiaScript course
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/Negotiation/main/git/TLON_Lecture_01.md#1)
 
-### Wikis
-
-https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/41133408259/CourseNode/1705289529591047006/wiki/Index
-
-### Concept Maps
+### Students create LiaScript content
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/EF_BOB_23/main/BOB_concept_maps.md#1)
+
+### Students create Wikis
+
+https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/41133408259/CourseNode/1705289529591047006/wiki/Index
 
 ## General Ideas for teaching at TUC
 

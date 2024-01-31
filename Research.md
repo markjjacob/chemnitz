@@ -23,16 +23,14 @@ translation: Français translations/French.md
 
 # Research and Activity
 
-## Current
-
-### Digital Fellowship (Tandem and Transfer)
+## Digital Fellowship (Tandem and Transfer)
 - LiaScript Presentations and Course material
 
 
-### WordValue
+## WordValue
 
 
-### CrossLab
+## CrossLab
 
     {{0-1}}
 ??[](https://cross-lab.org/die-digitale-zukunft-des-lernens-und-lehrens-mit-remote-laboren/)
@@ -45,7 +43,7 @@ translation: Français translations/French.md
 - LED Project
 
 
-### COIL Padlet
+## COIL (Collaborative Online International Learning)
 
     {{0-1}}
 ![alt-text](/img/COIL_Team.jpg)
@@ -73,17 +71,8 @@ In carrying out this project, students inherently faced communicative as well as
 
 The project instructors Anna Smajdor, Maria Nowicka, Hubertus Weyer, Dr. Mark Jacob and Darlene Kilian met at a conference in March 2023. Multiple follow-up meetings facilitated the first implementation of the collaboration which began in early October 2023 and ended on January 12, 2024. ZoomX, padlet and instant messaging were used as platforms to collaborate synchronously and asynchronously by students and project instructors. From the inception of the project, all instructors have been aware a collaboration offers potential which a single instructor alone cannot capitalize on. The project as a whole is greater than the sum of all parts.
 
-## Prospective
 
-### Concept Maps
-
-    {{0-1}}
-- Neural networks to analyze concept maps (Volker Göhler)
-
-    {{1}}
-??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/EF_BOB_23/main/BOB_concept_maps.md#1)
-
-### Digital Linguistic Analysis
+## Digital Linguistic Analysis (prospective)
 
     {{0-1}}
 - Neural networks to analyze the linguistic content of negotiations (Gari Walkowitz)
@@ -93,7 +82,7 @@ The project instructors Anna Smajdor, Maria Nowicka, Hubertus Weyer, Dr. Mark Ja
 We study the thinking processes that underlie German and Chinese negotiators’ behavior in tacit ultimatum bargaining situations in which communication is inhibited. ***Using a unique data set of transcripts from videotaped group discussions (N = 141, involving 405 students), we provide new insights based on spontaneous authentic reasoning of the bargaining protagonists.*** About one third of the groups do not refer to fairness in their arguments. For those who do, the equal split is the predominant fairness norm and the focal point of orientation in both symmetric and asymmetric settings. Addressing the equal split and combining it with fairness plays an important role for groups’ behavior, while  fairness-related arguments per se have no consistent behavioral impact. Participants address the challenge of lacking communication by reflexive thought processes. The opponent’s interests enter into the players’ deliberations in both participant pools by reasoning in two different modes of perspective taking and at higher levels. Although we observe no substantial behavioral differences between German and Chinese participants, significant
 differences in underlying motives and fairness norms exist.
 
-### Poetry, Science, Communication
+### Poetry, Science, Communication (prospective)
 
 ??[Sam home](/img/Sam_5.png "https://www.samillingworth.com/")
 ![alt-text](/img/Sam_4.png "https://www.bbc.co.uk/programmes/m001fmby")
