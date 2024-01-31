@@ -199,6 +199,10 @@ infoinfo
 
 !?[alt-text](https://video.tu-freiberg.de/video/IEP-8-Questions/e87b984068e6be6ac2d41d9941e133dd "Questions")
 
+## ChatGPT courses
+
+https://aneesha.medium.com/act-as-a-learning-designer-getting-chatgpt-to-generate-an-online-module-8a16a2813bd6
+
 
 
 

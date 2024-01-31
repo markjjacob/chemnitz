@@ -24,23 +24,23 @@ translation: Français translations/French.md
 # Research and Activity
 
 ## Digital Fellowship (Tandem and Transfer)
-- LiaScript Presentations and Course material
 
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
 ## WordValue
-
+??[](https://www.wordvalue.gwi.uni-muenchen.de/home)
 
 ## CrossLab
 
     {{0-1}}
 ??[](https://cross-lab.org/die-digitale-zukunft-des-lernens-und-lehrens-mit-remote-laboren/)
 
-    {{1-2}}
-- Implementing Remote labs in University ESP courses: 2022 - 2024
-- translating and making available remote lab infrastructures to students in Africa: 2024 - 2025
+    {{1}}
+- Implementing Remote labs (LED Project) in University ESP courses: 2022 - 2024
+- Translating and making available remote lab infrastructures to students in Africa: 2024 - 2025
 
-    {{2}}
-- LED Project
+### LED Project
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/English_for_BAI_MM_BWM_BM/main/arduino.md#16)
 
 
 ## COIL (Collaborative Online International Learning)
