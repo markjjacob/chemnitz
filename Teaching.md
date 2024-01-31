@@ -93,7 +93,7 @@ What's the biggest [[ problem ]] you have right now at university?
 
 > How important do you rate the principles?
 
-[[Low][Medium][High]]
+[(Low)(Medium)(High)]
 [         ] Ask students questions you don't know the answer to.
 [         ] If students can play your role, give them the opportunity.
 [         ] Give students constructive and actionable feedback.
@@ -102,7 +102,7 @@ What's the biggest [[ problem ]] you have right now at university?
 
 > Do these principles feature in your teaching?
 
-[[Always][Often][Sometimes][Rarely][Never]]
+[(Always)(Often)(Sometimes)(Rarely)(Never)]
 [         ] Ask students questions you don't know the answer to.
 [         ] If students can play your role, give them the opportunity.
 [         ] Give students constructive and actionable feedback.
@@ -173,6 +173,66 @@ flowchart TD
 !?[alt-text](https://video.tu-freiberg.de/video/Its-worth-it/1d25641fa3663a45440b0dcb6a98b2ee "It's Worth It!")
 !?[alt-text](https://www.youtube.com/watch?v=6FPLuPPhzHw "Alex is Back!")
 infoinfo
+
+### Fachsprache
+
+```mermaid @mermaid
+flowchart TB
+    classDef someclass fill:#f96;
+    A[Concrete] --> B
+    A:::someclass --> C
+    C[Language] --> V[Words]
+    C --> W[Interaction]
+    V --> I[Etymology]
+    I --> AD[com lat. = together]
+    AD:::someclass --> AK
+    I --> AE(cretus lat. = grown)
+    AE:::someclass --> AK[grown together]
+    AK:::someclass
+    
+    V --> J[Collocations]
+    J --> I
+    J --> reinforced:::someclass 
+    P --> R[Processes]
+    R --> AK
+    R --> AP[Inputs & Outputs]
+    W --> P[Describing]
+    J --> P
+    W --> Q[Discussing]
+    Q --> AG[Argumentation]
+    AG --> AP
+    AP --> S[Presentations]
+    AP --> AQ[Texts]
+    AQ <--> AR[Concept maps]
+    S --> AI
+    S <--> AR
+    
+    B[Subject] --> D[Composition]
+    D --> N[Aggregate]:::someclass 
+    D --> O[Cement]:::someclass 
+    B --> E[Production]
+    E --> L[Mixing]:::someclass 
+    E --> M[Curing]:::someclass 
+    B --> F[Structure]
+    F --> AA[Homogeneity]:::someclass 
+    F --> AB[Porosity]:::someclass 
+    B --> G[Properties]
+    G --> X[high compressive strength]:::someclass 
+    G --> Y[Water resistant]:::someclass 
+    B --> H[Applications]
+    H --> Z[Dams]:::someclass 
+    H --> AC[Furnaces]:::someclass 
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    B --> AH
+    H --> AH[Impacts]
+    AH --> AJ[Economic]:::someclass    
+    AH --> AI[Environmental]:::someclass 
+    X --> Z
+    Y --> Z
+```
 
 
 

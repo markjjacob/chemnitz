@@ -23,24 +23,36 @@ translation: Français translations/French.md
 
 # Research
 
-- Tools, Teaching, Technical English, Translating
-
-## Questions
-
-> Teachers
+## Teachers
 
 1. To what extent can language instructors cope with the "Fach" in Fachsprache? (Transfer Digital Fellowship)
-2. What are the requirements of a language instructor for teaching English for Specific Purposes? (Transfer Digital Fellowship)
 
-> Teaching
+## Teaching
 
 3. How should we best implement digital tools? (WordValue, CrossLabs)
 4. How should university specialist language courses develop? (Tandem Digital Fellowshop)
 
-> Analysis
+## Analysis
 
-5. How can we use neural networks to analyze concept maps (Volker Göhler) and the content of negotiations (Gari Walkowitz)
+5. How can we use neural networks to analyze concept maps (Volker Göhler)
 
-> Translation and localization
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/EF_BOB_23/main/BOB_concept_maps.md#1)
 
-6. To what extent do we need to consider culture when translating and making available remote lab infrastructures to students outside Germany (in Europe, in Africa)? (CrossLabs)
+6. How can we use neural networks to analyze the content of negotiations (Gari Walkowitz)
+
+## Translation and localization
+
+6. To what extent do we need to consider culture when translating and making available remote lab infrastructures to students outside Germany (in Europe, in Africa)? (CrossLab)
+
+??[](https://cross-lab.org/die-digitale-zukunft-des-lernens-und-lehrens-mit-remote-laboren/)
+
+## Cooperation
+
+7. Poetry, Science, Communication
+
+??[Sam home](/img/Sam_5.png "https://www.samillingworth.com/")
+![alt-text](/img/Sam_4.png "https://www.bbc.co.uk/programmes/m001fmby")
+![alt-text](/img/Sam_1.png "info")
+![alt-text](/img/Sam_2.png "info")
+
+![alt-text](/img/Sam_3.png "info")
