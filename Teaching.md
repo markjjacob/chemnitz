@@ -143,6 +143,7 @@ https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNo
 - Wikis (Cross-course use)
 - Image describer with feedback
 - Youtube ScriptGrabber
+- Professional Communication Microcredential
 
 ## Ideas for teaching at TUC
 
