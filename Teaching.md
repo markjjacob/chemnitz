@@ -17,6 +17,34 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 translation: Français translations/French.md
+script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/base.js
+script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/consys.js
+script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/grabber.js
+script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/grabber-lia-bridge.js
+script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/lul-lia-bridge.js
+script: https://nethiri.github.io/YTScriptGrabber/LiaScriptVersion/lul.js
+link: https://cdn.jsdelivr.net/gh/nethiri/YTScriptGrabber@main/LiaScriptVersion/lul.css
+link: https://cdn.jsdelivr.net/gh/nethiri/YTScriptGrabber@main/LiaScriptVersion/consys.css
+
+@gr: @grabber({})
+
+@grabber
+<script id="script_@uid" input="hidden">
+  window['grabberArg'] = @0;
+</script>
+@startgrabber(@uid)
+@end
+
+@startgrabber
+<script id="script_@uid" input="hidden">
+  window['grabberUid'] = 'id_@0';
+  setTimeout(function() {
+    startGrabber();
+  }, 100);
+</script>
+<div id='id_@0'></div>
+@end
+
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/chemnitz/blob/main/Teaching.md)
@@ -24,8 +52,8 @@ translation: Français translations/French.md
 # Teaching
 
 1. [Background](#background)
-2. [Safety](#safety)
-3. [Excitement](#excitement)
+2. [Principles](#principles)
+3. [Tools](#tools)
 
 ## Background
 
@@ -56,12 +84,8 @@ La plupart des X rejoignant les FNFL sont des ingénieurs du Génie Maritime qui
     {{6}}
 ??[shakespeare](https://www.folger.edu/explore/shakespeares-works/henry-iv-part-2/read/2/1/?q=Basingstoke#line-2.1.177)
 
-## Safety
 
-1. [Principles](#principles)
-2. [Student satisfaction](#student-satisfaction)
-
-### Principles
+## Principles
 
     {{0-1}}
 What's the biggest [[ problem ]] you have right now at university?
@@ -89,7 +113,7 @@ What's the biggest [[ problem ]] you have right now at university?
 > **Next level:** Give them the chance to try again.
 > *This time thank the participants and officially give the word back to me.*
 
-#### Principles Survey
+### Principles Survey 1
 
 > How important do you rate the principles?
 
@@ -98,7 +122,7 @@ What's the biggest [[ problem ]] you have right now at university?
 [         ] If students can play your role, give them the opportunity.
 [         ] Give students constructive and actionable feedback.
 
-#### Principles Survey 2
+### Principles Survey 2
 
 > Do these principles feature in your teaching?
 
@@ -107,7 +131,7 @@ What's the biggest [[ problem ]] you have right now at university?
 [         ] If students can play your role, give them the opportunity.
 [         ] Give students constructive and actionable feedback.
 
-#### Bonus Principles
+### Bonus Principles
 
     {{1}}
 > **Bonus Principle 1:**
@@ -123,7 +147,7 @@ What's the biggest [[ problem ]] you have right now at university?
 >
 > **Next level:** ...
 
-### Student satisfaction
+## Student satisfaction
 
     {{0-1}}
 https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNode/1656556056424095009
@@ -136,16 +160,38 @@ https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNo
 - Special Christmas 2022 mention from StuRa
 - Relatively high numbers of continuing students
 
-## Excitement
+## Tools
 
-- LiaScript Presentations and Course material
-- LED Project
-- Wikis (Cross-course use)
-- Image describer with feedback
-- Youtube ScriptGrabber
-- Professional Communication Microcredential
+### LiaScript
 
-## Ideas for teaching at TUC
+??[live lia doc](https://liascript.github.io/LiveEditor/?/edit/TNcJ6RnYbjgs286JCYVpAmDA/webrtc)
+
+### Course in LiaScript
+
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/Negotiation/main/git/TLON_Lecture_01.md#1)
+
+### Wikis (Cross-course use)
+
+### Image describer
+
+#### Web Version
+
+??[](https://nethiri.github.io/EnglishImageDescriber/)
+
+#### Feedback Version
+
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/EnglishImageDescriber/main/LiaScriptImageDescriber/ImageDescriber.md#1)
+
+### Youtube ScriptGrabber
+
+#### Web version
+??[](https://nethiri.github.io/YTScriptGrabber/)
+
+#### LiaScript version
+@gr
+
+
+## General Ideas for teaching at TUC
 
 ```mermaid @mermaid
 flowchart TD
@@ -164,9 +210,7 @@ flowchart TD
     I---|are others:|H(1.Experts<br/>2.Connections<br/>3.Acquantances)
 ```
 
-## Extra material
-
-### Videos
+## Videos 1
 
 !?[alt-text](https://www.youtube.com/watch?v=RzvCK33lKFA "Fit in 15")
 !?[alt-text](https://video.tu-freiberg.de/video/Fit-in-English-28Geophysics29/55d2e3c431cd9c5db0516ed61d976971 "Fit in English - Geophysics")
@@ -174,65 +218,26 @@ flowchart TD
 !?[alt-text](https://www.youtube.com/watch?v=6FPLuPPhzHw "Alex is Back!")
 infoinfo
 
-### Fachsprache
+## Videos 2
 
-```mermaid @mermaid
-flowchart TB
-    classDef someclass fill:#f96;
-    A[Concrete] --> B
-    A:::someclass --> C
-    C[Language] --> V[Words]
-    C --> W[Interaction]
-    V --> I[Etymology]
-    I --> AD[com lat. = together]
-    AD:::someclass --> AK
-    I --> AE(cretus lat. = grown)
-    AE:::someclass --> AK[grown together]
-    AK:::someclass
-    
-    V --> J[Collocations]
-    J --> I
-    J --> reinforced:::someclass 
-    P --> R[Processes]
-    R --> AK
-    R --> AP[Inputs & Outputs]
-    W --> P[Describing]
-    J --> P
-    W --> Q[Discussing]
-    Q --> AG[Argumentation]
-    AG --> AP
-    AP --> S[Presentations]
-    AP --> AQ[Texts]
-    AQ <--> AR[Concept maps]
-    S --> AI
-    S <--> AR
-    
-    B[Subject] --> D[Composition]
-    D --> N[Aggregate]:::someclass 
-    D --> O[Cement]:::someclass 
-    B --> E[Production]
-    E --> L[Mixing]:::someclass 
-    E --> M[Curing]:::someclass 
-    B --> F[Structure]
-    F --> AA[Homogeneity]:::someclass 
-    F --> AB[Porosity]:::someclass 
-    B --> G[Properties]
-    G --> X[high compressive strength]:::someclass 
-    G --> Y[Water resistant]:::someclass 
-    B --> H[Applications]
-    H --> Z[Dams]:::someclass 
-    H --> AC[Furnaces]:::someclass 
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    B --> AH
-    H --> AH[Impacts]
-    AH --> AJ[Economic]:::someclass    
-    AH --> AI[Environmental]:::someclass 
-    X --> Z
-    Y --> Z
-```
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-1-Introducing-yourself/4349372d9d69e2415729b1a3a2fab941 "Introducing yourself")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-2-Introducing-your-topic/5978d19af08232dfa88c03cb7ad2a14f "Introducing your topic")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-3-Synonyms/c2230053b26249e624c2476f8c7a409a "Synonyms")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-4-Useful-phrases/3bebb19a2d1f9c8fa2a6c4d338134561 "Useful Phrases")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-5-Nerves/89bf38bd9dc6eb725746648b05e67c75 "Nerves")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-6-Non2Dverbal-communication-p1/d5b08cd5a5b7ffcd076acfcf29fa1b30 "Non-verbal communication 1")
+
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-6-Non2Dverbal-communication-p2/892ed954c1bb2fc53f5a6efaf97f0e4f "Non-verbal communication 2")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-7-Conclusion/04a93eca656810677743ff2488fda44b "Conclusion")
+
+!?[alt-text](https://video.tu-freiberg.de/video/IEP-8-Questions/e87b984068e6be6ac2d41d9941e133dd "Questions")
 
 
 
