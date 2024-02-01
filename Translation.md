@@ -80,7 +80,7 @@ By the end of the course students will be able to:
 
 ## Assessment
 
-> Students will complete four assessments of approximately four pages (2000 words) each. The first three assessments are to be completed chronologically so that each student will have (1) translated a text, (2) written a text justifying the strategies and linguistic decisions made, and (3) received a peer evaluation of their translation. The last assessment (4) is to be completed after students have worked through the accompanying online material.
+> Students will complete four assessments of approximately four pages (500 words) each. The first three assessments are to be completed chronologically so that each student will have (1) translated a text, (2) written a text justifying the strategies and linguistic decisions made, and (3) received a peer evaluation of their translation. The last assessment (4) is to be completed after students have worked through the accompanying online material.
 
 - (1) Translation (ILO 1) Weeks 4 - 6
 - (2) Justification  (ILO 2) Weeks 7 - 9
