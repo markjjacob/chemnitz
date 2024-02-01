@@ -28,7 +28,15 @@ translation: Français translations/French.md
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#1)
 
 ## WordValue
+
+    {{0-1}}
 ??[](https://www.wordvalue.gwi.uni-muenchen.de/home)
+
+    {{1-2}}
+![WV Groupwork](/img/WV_Groupwork.jpg)
+
+    {{2}}
+![WV Analysis](/img/WV_Analysis.png)
 
 ## CrossLab
 
@@ -90,3 +98,7 @@ differences in underlying motives and fairness norms exist.
 ![alt-text](/img/Sam_2.png "info")
 
 ![alt-text](/img/Sam_3.png "info")
+
+## New technical terms
+
+> Skotochemistry

@@ -78,6 +78,7 @@ What's the biggest [[ problem ]] you have right now at university?
 >
 > **Next level:** Let students contribute to shaping the session.
 > *What are our goals today and how are we going to reach them?*
+
     {{3}}
 > **Principle 3:**
 > Give constructive and actionable feedback.
@@ -139,6 +140,11 @@ https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNo
 
 ??[live lia doc](https://liascript.github.io/LiveEditor/?/edit/TNcJ6RnYbjgs286JCYVpAmDA/webrtc)
 
+### LiaScript tools
+
+??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaTemplates/TextAnalysis/master/README.md#1)
+
+
 ### Instructor creates LiaScript course
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/Negotiation/main/git/TLON_Lecture_01.md#1)
@@ -150,6 +156,10 @@ https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/35930112002/CourseNo
 ### Students create Wikis
 
 https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/41133408259/CourseNode/1705289529591047006/wiki/Index
+
+### Students collaborate
+
+??[](https://matrix.tu-freiberg.de/pad/p/EF_Chemistry_23)
 
 ## General Ideas for teaching at TUC
 
